@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B5095CD423FC58A3009DC613 /* SpaceCustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5095CD323FC58A3009DC613 /* SpaceCustomButton.swift */; };
+		B5095CD823FC5C70009DC613 /* ChoosePlanetMoonProtocole.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5095CD723FC5C70009DC613 /* ChoosePlanetMoonProtocole.swift */; };
 		B5961DF923F739540072143E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5961DF823F739540072143E /* AppDelegate.swift */; };
 		B5961DFB23F739540072143E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5961DFA23F739540072143E /* SceneDelegate.swift */; };
 		B5961DFD23F739540072143E /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5961DFC23F739540072143E /* MainViewController.swift */; };
@@ -20,6 +21,7 @@
 
 /* Begin PBXFileReference section */
 		B5095CD323FC58A3009DC613 /* SpaceCustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpaceCustomButton.swift; sourceTree = "<group>"; };
+		B5095CD723FC5C70009DC613 /* ChoosePlanetMoonProtocole.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChoosePlanetMoonProtocole.swift; sourceTree = "<group>"; };
 		B5961DF523F739540072143E /* ProtocolDelegateSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProtocolDelegateSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5961DF823F739540072143E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B5961DFA23F739540072143E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				B5961DF823F739540072143E /* AppDelegate.swift */,
 				B5961DFA23F739540072143E /* SceneDelegate.swift */,
 				B5961DFC23F739540072143E /* MainViewController.swift */,
+				B5095CD723FC5C70009DC613 /* ChoosePlanetMoonProtocole.swift */,
 				B5961E0C23F74C420072143E /* ChooseViewController.swift */,
 				B5961DFE23F739540072143E /* Main.storyboard */,
 				B5961E0123F739550072143E /* Assets.xcassets */,
@@ -149,6 +152,7 @@
 			files = (
 				B5961E0F23F74E300072143E /* Extensions.swift in Sources */,
 				B5095CD423FC58A3009DC613 /* SpaceCustomButton.swift in Sources */,
+				B5095CD823FC5C70009DC613 /* ChoosePlanetMoonProtocole.swift in Sources */,
 				B5961DFD23F739540072143E /* MainViewController.swift in Sources */,
 				B5961E0D23F74C420072143E /* ChooseViewController.swift in Sources */,
 				B5961DF923F739540072143E /* AppDelegate.swift in Sources */,

@@ -13,11 +13,6 @@ class MainViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        setUI()
-    }
-    
-    func setUI() {
-        changeButton.setButtonView()
     }
     
     @IBAction func changeButtonDidTapped(_ sender: Any) {

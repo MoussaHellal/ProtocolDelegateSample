@@ -46,6 +46,7 @@
                     </view>
                     <connections>
                         <outlet property="changeButton" destination="ePM-9v-2PY" id="Qfl-q6-Dun"/>
+                        <outlet property="mainPlanetImage" destination="uGT-kc-RYd" id="ag1-sh-hi9"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
